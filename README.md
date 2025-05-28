@@ -3,6 +3,9 @@ Hand-tracking Python program that uses Google Mediapipe to detect hand landmarks
 
 ## Project Showcase
 
-[![Click the thumbnail to watch the demo on YouTube](https://img.youtube.com/vi/KCkispvue9E/hqdefault.jpg)](https://youtu.be/KCkispvue9E)
+<a href="https://youtu.be/KCkispvue9E" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/KCkispvue9E/hqdefault.jpg"
+       alt="Click to watch the demo video on YouTube" />
+</a>
 
-*Click the image above to open the full video demo on YouTube.*
+*Click the thumbnail to watch the demo on YouTube*
